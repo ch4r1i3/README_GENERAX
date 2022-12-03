@@ -1,14 +1,23 @@
 {
-  "name": "static-site",
+  "name": "readme_generax",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ch4r1i3/README_GENERAX.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ch4r1i3/README_GENERAX/issues"
+  },
+  "homepage": "https://github.com/ch4r1i3/README_GENERAX#readme",
   "dependencies": {
-    "inquirer": "^6.5.2"
+    "inquirer": "^9.1.4"
   }
 }
