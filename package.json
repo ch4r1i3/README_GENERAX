@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/ch4r1i3/README_GENERAX#readme",
   "dependencies": {
-    "inquirer": "^9.1.4"
+    "inquirer": "^8.2.4"
   }
 }
