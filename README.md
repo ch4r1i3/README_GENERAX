@@ -1,7 +1,7 @@
-# undefined
+# README_GENERAX
   https://github.com/ch4r1i3/README_GENERAX
   # Description
-  This project is genuinely created to help developers generate efficient, simple, and proffessional README.md files throughth their career.
+  This project is genuinely created to help developers generate efficient, simple, and proffessional README.md files through their career.
   # Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -13,7 +13,7 @@
   # Installation
   The following neccesary dependencies must be installed to run the application properly: inquirer, fs, util
   # Usage 
-  In order to use this app, Open the terminal, and run it
+  In order to use this app, Open the Terminal, type the commands, and run it.
   # License
   This project is licensed under the MIT license.
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
