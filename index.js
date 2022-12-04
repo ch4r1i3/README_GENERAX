@@ -12,7 +12,7 @@ const questions = [{
     name: "Title"
     }, {
         type:"input",
-        message: "What is the project about? Provide a detailed despcription of your project?",
+        message: "What is the project about? Provide a detailed despcription of your project",
         name: "Description"
     }, {
         type: "input",
@@ -37,7 +37,7 @@ const questions = [{
     },{
         type: "input",
         message: "What commands are needed to test this app?",
-        name: "Test-Commands"
+        name: "TestCommands"
     }, {
         type: "input",
         message: "Contact info for questions",
@@ -45,7 +45,7 @@ const questions = [{
     }, {
         type: "input",
         message: "What is your Github usename?",
-        name: "Github-Username"
+        name: "GithubUsername"
     },
 ]
 
@@ -58,7 +58,7 @@ function writeToFile(fileName, data) {
         if (err) {
             return console.log(err)
         } else {
-            console.log("success")
+            console.log("README file successfully created")
         }
     })
 }
